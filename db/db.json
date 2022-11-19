@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "description": "A laptop",
+      "price": 100,
+      "inStock": false
+    },
+    {
+      "id": 2,
+      "name": "Desktop",
+      "description": "A desktop",
+      "price": 200,
+      "inStock": false
+    },
+    {
+      "id": 3,
+      "name": "Tablet",
+      "description": "A tablet",
+      "price": 300,
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "name": "Phone",
+      "description": "A phone",
+      "price": 400,
+      "inStock": false
+    },
+    {
+      "name": "apple",
+      "description": "front end project made in tailwind",
+      "price": "13246",
+      "inStock": true,
+      "id": 5
+    }
+  ]
+}
